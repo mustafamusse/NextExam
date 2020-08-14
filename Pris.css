@@ -1,60 +1,82 @@
-
-
-.header-color {
-  background: linear-gradient(to left, #3399FF, #33CCFF);
+.logo-text {
+  font-size: 30px !important;
 }
 
-.logo-text{
-  color: #fff;
-  margin-top: auto;
-  margin-bottom: auto;
-  font-size: 40px;
+.ruler {
+  width: 100px;
+  height: 100px;
 }
 
-.overlap{
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+  color: #fff !important;
+}
+
+.color-me {
+  color:#fff;
+}
+
+.rubrik {
   text-align: center;
-  color: #B0B0B0;
-  font-size: small;
 }
-
-.logo {
-float: right;
-width: 200px; 
-border-radius: 50%;
-background-color: #00BFFF;
-}
-
 
 .navbar{
   text-align: center;
   padding-top: 10px;
-  color: #B0B0B0;
+  color: #fff;
   font-size: 25px;
+  font-family: helvetica;
+  font-weight: lighter;
 }
 
 .navbar-tab :visited {
-  color: #B0B0B0;
-}
-
-.rubrik-text {
-  margin-top: 100px;
-  text-align: center;
-  color: #B0B0B0;
-
-}
-
-.plain-text {
-  text-align: center;
-  color: #B0B0B0;
-  font-size: large;
-  padding-bottom: 15px;
-}
-
-
-.kontakta-oss {
   color: #fff;
+}
+
+.pris-text {
   margin-top: 25px;
-  margin-left: 25px;
+  text-align: center;
+  font-size: 25px;
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.pris-rubrik {
+  margin-top: 35px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 35px;
+  font-family: helvetica;
+  font-weight: lighter;
+  
+}
+
+.priser {
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+
+.priser-text {
+  font-size: 20px;
+  text-align: center;
+}
+
+.kontakt-rubrik {
+  margin-top: 25px;
+  font-size: 30px;
+  font-family: Helvetica;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.kontakt-brod {
+  font-size: 20px;
+  font-family: Helvetica;
+  font-weight: lighter;
+  text-align: center;
 }
 
 

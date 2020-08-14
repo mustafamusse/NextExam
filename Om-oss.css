@@ -1,45 +1,57 @@
-
-
-.header-color {
-  background: linear-gradient(to left, #3399FF, #33CCFF);
+.logo-text {
+  font-size: 30px !important;
 }
 
-.logo-text{
-  color: #fff;
-  margin-top: auto;
-  margin-bottom: auto;
-  font-size: 40px;
+.ruler {
+  width: 100px;
+  height: 100px;
 }
 
-.overlap{
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+  color: #fff !important;
+}
+
+.color-me {
+  color:#fff;
+}
+
+.rubrik {
   text-align: center;
-  color: #B0B0B0;
-  font-size: small;
 }
-
-.logo {
-float: right;
-width: 200px; 
-border-radius: 50%;
-background-color: #00BFFF;
-}
-
 
 .navbar{
   text-align: center;
   padding-top: 10px;
-  color: #B0B0B0;
+  color: #fff;
   font-size: 25px;
+  font-family: helvetica;
+  font-weight: lighter;
 }
 
 .navbar-tab :visited {
-  color: #B0B0B0;
+  color: #fff;
 }
 
-.rubrik-text {
-  margin-top: 60px;
+
+
+.rubrik{
+  font-size: 30px;
+  font-family: helvetica;
+  font-weight: lighter;
+  padding-top: 15px;
   text-align: center;
   color: #B0B0B0;
+  margin-bottom: 10px;
+}
+
+.brod-text {
+  font-size: 20px;
+  text-align: center;
+  color: #B0B0B0;
+  font-family: helvetica;
+  font-weight: lighter;
 }
 
 .plain-text {
@@ -49,10 +61,11 @@ background-color: #00BFFF;
   padding-bottom: 15px;
 }
 
-.rubrik{
-  padding-top: 15px;
-  text-align: center;
+
+.kontakta-oss {
   color: #fff;
+  margin-top: 25px;
+  margin-left: 25px;
 }
 
 .profile-pic-row{
@@ -69,12 +82,7 @@ border-radius: 50%;
 .profile-pic-text {
   margin-top: 15px;
   color: #B0B0B0;
-}
-
-.kontakta-oss {
-  color: #fff;
-  margin-top: 25px;
-  margin-left: 25px;
+  margin-bottom: 25px;
 }
 
 
