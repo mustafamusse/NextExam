@@ -7,6 +7,11 @@
   font-size: 30px !important;
 }
 
+.ruler {
+  width: 100px;
+  height: 100px;
+}
+
 .ml-auto .dropdown-menu {
   left: auto !important;
   right: 0px;
