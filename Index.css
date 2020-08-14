@@ -7,6 +7,9 @@
   height: 100px;
 }
 
+
+
+
 .ml-auto .dropdown-menu {
   left: auto !important;
   right: 0px;
@@ -67,6 +70,8 @@
   margin-bottom: 30px;
   text-align: center;
   color: #B0B0B0;
+  font-family: helvetica;
+  font-weight: lighter;
 }
 
 .profile-pic-row{
@@ -83,6 +88,8 @@ border-radius: 50%;
 .profile-pic-text {
   margin-top: 15px;
   color:#B0B0B0;
+  font-family: helvetica;
+  font-weight: lighter;
 }
 
   html, body {
