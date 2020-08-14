@@ -1,0 +1,84 @@
+.index {
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.logo-text {
+  font-size: 30px !important;
+}
+
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+  color: #fff !important;
+}
+
+.color-me {
+  color:#fff;
+}
+
+.navbar{
+  text-align: center;
+  padding-top: 10px;
+  color: #fff;
+  font-size: 25px;
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.navbar-tab :visited {
+  color: #fff;
+}
+
+.image {
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 25px;
+}
+
+.plain-text {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  color: #fff;
+  font-size: large;
+  padding-bottom: 15px;
+}
+
+.kontakta-oss {
+  color: #fff;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.rubrik{
+  margin-bottom: 30px;
+  text-align: center;
+  color: #B0B0B0;
+}
+
+.profile-pic-row{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.profile-pic{
+align-items: center;
+width: 200px; 
+border-radius: 50%;
+}
+
+.profile-pic-text {
+  margin-top: 15px;
+  color:#B0B0B0;
+}
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; 
+    } 
+  
