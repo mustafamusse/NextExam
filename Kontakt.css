@@ -3,7 +3,7 @@
 }
 
 .ruler {
-  width: 100px;
+  width: 250px;
   height: 100px;
 }
 
@@ -47,6 +47,12 @@
   font-family: Helvetica;
   font-weight: lighter;
   text-align: center;
+}
+
+.kontakta-oss {
+  color: #fff;
+  margin-top: 25px;
+  margin-left: 25px;
 }
 
 

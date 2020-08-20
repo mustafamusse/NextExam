@@ -1,15 +1,8 @@
-.logo-text {
-  font-size: 20px !important;
-  text-align: left;
-}
-
-.icontext {
-  font-size: 10px;
-}
 
 .ruler {
-  width: 100px;
+  width: 250px;
   height: 100px;
+  font-weight: lighter !important;
 }
 
 .ml-auto .dropdown-menu {
@@ -82,6 +75,12 @@
   font-family: Helvetica;
   font-weight: lighter;
   text-align: center;
+}
+
+.kontakta-oss {
+  color: #fff;
+  margin-top: 25px;
+  margin-left: 25px;
 }
 
 
