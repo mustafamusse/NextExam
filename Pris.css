@@ -53,13 +53,13 @@
 .priser {
   font-size: 30px;
   text-align: center;
-  border: 2px solid #000;
-  border-radius: 5px;
+
 }
 
 .priser-text {
   font-size: 20px;
   text-align: center;
+  margin-bottom: 15px;
 }
 
 .kontakt-rubrik {
@@ -90,3 +90,14 @@ html, body {
   margin: 0;
   padding: 0;
   overflow-x: hidden; }
+
+  @media only screen and (min-width: 600px) {
+    
+    .priser {
+      font-size: 30px;
+      text-align: center;
+      border: 2px solid #000;
+      border-radius: 5px;
+    }
+  
+  }

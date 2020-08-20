@@ -39,21 +39,21 @@
   font-weight: lighter;
   padding-top: 15px;
   text-align: center;
-  color: #B0B0B0;
+  color: #000;
   margin-bottom: 10px;
 }
 
 .brod-text {
   font-size: 20px;
   text-align: center;
-  color: #B0B0B0;
+  color: #000;
   font-family: helvetica;
   font-weight: lighter;
 }
 
 .plain-text {
   text-align: center;
-  color: #B0B0B0;
+  color: #000;
   font-size: large;
   padding-bottom: 15px;
 }
@@ -78,7 +78,7 @@ border-radius: 50%;
 
 .profile-pic-text {
   margin-top: 15px;
-  color: #B0B0B0;
+  color: #000;
   margin-bottom: 25px;
 }
 

@@ -64,7 +64,7 @@
 .rubrik{
   margin-bottom: 30px;
   text-align: center;
-  color: #B0B0B0;
+  color: #000;
   font-family: helvetica;
   font-weight: lighter;
 }
@@ -82,7 +82,7 @@ border-radius: 50%;
 
 .profile-pic-text {
   margin-top: 15px;
-  color:#B0B0B0;
+  color:#000;
   font-family: helvetica;
   font-weight: lighter;
 }
