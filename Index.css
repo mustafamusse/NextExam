@@ -11,9 +11,10 @@
   color: #fff !important;
 }
 
-.color-me {
-  color:#fff;
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff !important;
 }
+
 
 .navbar{
   text-align: center;

@@ -11,8 +11,8 @@
   color: #fff !important;
 }
 
-.color-me {
-  color:#fff;
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff !important;
 }
 
 .rubrik {
@@ -27,6 +27,8 @@
   font-family: helvetica;
   font-weight: lighter;
 }
+
+
 
 .navbar-tab :visited {
   color: #fff;
