@@ -35,6 +35,7 @@
 }
 
 .kontakt-rubrik {
+  color: #000;
   margin-top: 25px;
   font-size: 30px;
   font-family: Helvetica;
@@ -55,6 +56,15 @@
   margin-left: 25px;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  text-align: left;
+  margin-left: 0px !important;
+}
 
 html, body {
   width: 100%;
